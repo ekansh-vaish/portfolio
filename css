@@ -1,0 +1,284 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+.main
+{
+
+display: flex;
+flex-direction: row;
+margin: 15px;
+}
+
+.sidebar
+{
+height: 875px;
+width: 350px;
+margin: 20px;
+border-style: solid;
+}
+.block1 h4{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+.block1 h3 {
+display: flex;
+justify-content: center;
+margin-bottom: 10px;
+}
+
+.block1 .icons  
+{
+    display: flex;
+    justify-content: center;
+margin-bottom: 30px;
+
+}
+.block1 .icons a 
+{
+margin: 2px;
+color: black;
+}
+.block1 h2{
+margin-top: 10px;
+display: flex;
+justify-content: center;
+}
+
+.block1 p{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+
+.projects h4 
+{
+display: flex;
+justify-content: center;
+padding: 4px 0 4px 0;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.projects h5 
+{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+background-color: rgb(130, 123, 123); 
+}
+
+.work-experiance h4
+{
+display: flex;
+justify-content: center;
+margin: 4px;
+}
+
+.work-experiance p
+{
+padding-left: 15px;
+margin: 3px;
+}
+.work-experiance a{
+color: skyblue;
+margin: 3px;
+padding-left: 15px;
+margin-bottom: 5px;
+}
+
+.education h4
+{
+    display: flex;
+    justify-content: center;
+margin: 10px;
+}
+
+.education ul
+{
+margin-left: 20px;
+list-style: none;
+margin-bottom: 10px;
+}
+ h5{
+    display: flex;
+    justify-content: center;  
+padding: 10px;
+}
+
+.reviews 
+{
+margin: 10px;    
+padding: 15px;
+border-collapse: inherit;
+border-style: solid;
+border-radius: 60px;
+}
+
+.content1{
+    height: 875px;
+    margin: 20px;
+    border-style: solid;
+
+}
+.top{
+height: 150px;
+}
+.top h3{
+margin-top: 10px;
+margin-left: 15px;
+font-size: small;
+}
+
+.top .icons1 
+{
+font-size: small;
+font-weight: bold;
+display: flex;
+justify-content: end;
+}
+
+.heading
+{
+display: flex;
+justify-content: center;
+
+}
+
+.heading h2{
+margin-top: 20px;
+font-family: monospace;
+padding: 10px;
+}
+.heading p{
+font-size: small;
+display: flex;
+justify-content: flex-end;
+
+}
+
+.middle
+{
+display: flex;
+flex-direction: row;
+height: 300px;
+}
+
+.projects2
+{
+width: 300px;
+border-style: solid;
+}
+
+.projects2 h2{
+padding: 6px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.projects2 p{
+margin: 4px;
+}
+
+.work-experiance1
+{
+    border-style: solid;
+    
+}
+
+.work-experiance1 h2{
+margin-top: 6px;
+margin-left: 6px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.work-experiance1 p{
+margin: 8px;
+font-weight: 100;
+}
+
+.work-experiance1 a{
+margin-left: 8px;
+}
+
+.education1
+{
+margin-top: 8px;
+width: 340px;
+border-style: solid;
+}
+
+.education1 h4{
+padding: 6px;
+}
+
+.education1 ul{
+margin-left: 10px;
+list-style: none;
+}
+
+.education1 p{
+    padding-left: 10px;
+    margin: 4px 0 4px 0;
+}
+
+.reviews1 h5
+{
+margin: 5px 0 10px 0;
+display: flex;
+justify-content: left;
+flex-direction: row;
+}
+
+
+.reviews1 {
+display: flex;
+flex-direction: row;
+
+}
+
+
+.rev1 
+{
+height: 100px;
+width: 200px;
+margin: 40px;
+border-style: solid;
+border-radius: 40px;
+display: flex;
+font-size: small;
+}
+
+.rev1 p{
+margin: 14px;
+
+}
+
+.rev2
+{
+height: 100px;
+width: 200px;
+margin: 40px;
+border-style: solid;
+border-radius: 40px;
+display: flex;
+font-size: small;
+}
+
+.rev2 p{
+    margin: 14px;
+    }
+
+.rev3 
+{
+height: 100px;
+width: 200px;
+margin: 40px;
+border-style: solid;
+border-radius: 40px;
+display: flex;
+}
+
+.rev3 p{
+    margin: 14px;
+    font-size: small;
+    }
